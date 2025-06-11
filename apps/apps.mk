@@ -25,11 +25,7 @@ PRODUCT_COPY_FILES += \
 
 # Sony Apps
 PRODUCT_PACKAGES += \
-    MusicPro \
-    SemcMusic \
     SomcColorGamut \
     SomcMediaExtensionProvider \
     ExternalMonitor \
-    UsbExtOutAudio \
-    VideoCreator \
-    XperiaLWP
+    UsbExtOutAudio
